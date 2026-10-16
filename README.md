@@ -2,7 +2,7 @@
 
 # Castellano
 
-* [Castellano Marstro](https://javiergzriffo.github.io/Castellano_Mastro/)
+* [Castellano Maestro](https://javiergzriffo.github.io/Castellano_Mastro/)
 
 * [Generador de actas]
 * [Entrevista estudiantes]
